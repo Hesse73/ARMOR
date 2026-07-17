@@ -1,5 +1,6 @@
 # ARMOR
 Source code for ARMOR (Anchor Rollout and Mixed Optimization for RL)
+[https://arxiv.org/abs/2607.10481](https://arxiv.org/abs/2607.10481)
 
 ## Standard RL Training
 Please follow [the DAPO's recipe](https://github.com/BytedTsinghua-SIA/DAPO) and [QAE](https://github.com/junkangwu/qae) to prepare the data and models, then you can run the scripts to start continual training.
